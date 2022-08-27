@@ -25,6 +25,7 @@ main > div {
 
 .above-text { 
   margin-left: 40px;
+  font-weight: bold;
 }
 
 .above-text > div:nth-child(2) {
