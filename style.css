@@ -17,6 +17,7 @@ main {
 
 main > div {
   margin-top: 25vh;
+  width: 100%;
 }
 
 .italic {
