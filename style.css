@@ -6,6 +6,8 @@ body {
 aside {
   height: 100vh;
   width:  50vh;
+  background-image: url(assets/Forge_by_Jonny_Gios.jpeg);
+  background-position: center center;
 }
 
 main {
