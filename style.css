@@ -12,6 +12,11 @@ aside {
 
 main {
   width: 100%;
+  display: flex;
+}
+
+main > div {
+  margin-top: 25vh;
 }
 
 .italic {
