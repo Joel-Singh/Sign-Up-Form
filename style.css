@@ -22,10 +22,10 @@ main > div {
 }
 
 .italic {
-  font-style: italic;  
+  font-style: italic;
 }
 
-.above-text { 
+.above-text {
   margin-left: 40px;
   font-weight: bold;
 }
