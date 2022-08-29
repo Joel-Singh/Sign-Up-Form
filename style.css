@@ -49,6 +49,10 @@ main > :last-child {
   margin-left: 30px;
 }
 
+.log-in-text {
+  margin-top: 15px;
+}
+
 label {
   display: block;
 }
