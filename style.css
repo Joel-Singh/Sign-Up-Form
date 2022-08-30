@@ -82,6 +82,9 @@ aside {
   opacity: 0.5;
   width: 100%;
   height: 18%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 img {
