@@ -86,6 +86,17 @@ aside {
   align-items: center;
 }
 
+@font-face {
+  font-family: norse-bold;
+  src: url(assets/Norse-Bold.otf);
+}
+
+.black-banner > span {
+  color: white;
+  font-family: norse-bold;
+  font-size: 50px;
+}
+
 img {
   height: 100%;
 }
