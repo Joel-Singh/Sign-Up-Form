@@ -9,6 +9,7 @@ aside {
   background-image: url(assets/Forge.jpg);
   background-size: cover;
   background-position: center center;
+  box-sizing: border-box;
 }
 
 main {
@@ -70,6 +71,10 @@ label {
 .above-text > div:nth-child(2) {
   margin-top: 25px;
   margin-bottom: 50px;
+}
+
+aside {
+  padding-top: 10%;
 }
 
 .black-banner {
