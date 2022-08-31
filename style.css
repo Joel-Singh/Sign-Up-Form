@@ -113,6 +113,10 @@ form input:focus {
   box-shadow: 0px 0px 27px -7px #818483;
 }
 
+form input:invalid {
+  border-color: red;
+}
+
 button[type="submit"] {
   border: none;
   width: 200px;
